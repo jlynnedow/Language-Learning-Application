@@ -24,3 +24,12 @@ ser:soy:eres:es:somos:sois:son<br />
 bailar:bailo:bailas:baila:bailamos:bailáis:bailan<br />
 
 It should be noted that only one tense can be studied at a time. For example, in the text file above, all of the conjugations are in the present indicative tense of spanish.
+
+# How to run
+
+Right now, ROML can only be run in the terminal by downloading it and typing<br />
+python Language.py<br />
+into the terminal. In the future, I hope to add a user interface that makes using ROML more convieniant
+
+
+
