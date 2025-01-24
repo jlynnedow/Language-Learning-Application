@@ -6,7 +6,7 @@ ROML uses text files created by the user to quiz conjugations and vocab. The for
 
 The text files for the vocab section should be organized as follows:
 
-"vocab.txt"
+"vocab.txt"<br />
 apple:manzana<br />
 cat:gato<br />
 grapes:uvas<br />
@@ -16,7 +16,7 @@ The title of the file is irrelevant. Switching the order of the languages in the
 
 The text files for the conjugation section should be organized as follows:
 
-"conj.txt"
+"conj.txt"<br />
 trabajar:trabajo:trabajas:trabaja:trabajamos:trabajáis:trabajan<br />
 comer:como:comes:come:comemos:coméis:comen<br />
 andar:ando:andas:anda:andamos:andáis:andan<br />
