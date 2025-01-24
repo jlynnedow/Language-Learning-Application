@@ -2,7 +2,7 @@
 
 ROML is designed to be a free tool for students to use, as many diffent language learning sites are behind paywalls.
 
-ROML uses text files created by the user to quiz conjugations and vocab. The formatting of these text files is diffenernt depending on if you're studying conjugations or vocab.
+ROML uses text files created by the user to quiz conjugations and vocab. The formatting of these text files is different depending on if you're studying conjugations or vocab.
 
 The text files for the vocab section should be organized as follows:
 
@@ -23,4 +23,4 @@ andar:ando:andas:anda:andamos:andáis:andan<br />
 ser:soy:eres:es:somos:sois:son<br />
 bailar:bailo:bailas:baila:bailamos:bailáis:bailan<br />
 
-It should be noted that only one tense can be studied at a time. For example, in the text file abouve, all of the conjugations are in the present indicative tense of spanish.
+It should be noted that only one tense can be studied at a time. For example, in the text file above, all of the conjugations are in the present indicative tense of spanish.
