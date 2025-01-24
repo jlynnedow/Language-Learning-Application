@@ -29,7 +29,7 @@ It should be noted that only one tense can be studied at a time. For example, in
 
 Right now, ROML can only be run in the terminal by downloading it and typing<br />
 python Language.py<br />
-into the terminal. In the future, I hope to add a user interface that makes using ROML more convieniant
+into the terminal. <br />In the future, I hope to add a user interface that makes using ROML more convieniant
 
 
 
